@@ -1,0 +1,25 @@
+main.py
+  ca818c653b85cda8 106
+CLAUDE.md
+  ca818c653b85cda8 124
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "18e56b4a8dbec796f901a51122f47ce5e47a9b07",
+  "prompts": {
+    "ca818c653b85cda8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "877bebf7-276b-47eb-8181-30cca9d55603",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "paulRagar",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 2,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    }
+  }
+}
