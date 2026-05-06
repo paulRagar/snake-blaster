@@ -121,7 +121,7 @@ combo wins out over any single mode.
 ## Key Constants (tunable)
 
 - `TRAVEL_SPEED = 0.004` — seconds per shot pixel step (lower = faster)
-- `SHOT_PIXELS_PER_STEP = 3` — pixels each shot advances per `step_shots()` call
+- `SHOT_PIXELS_PER_STEP = 2` — pixels each shot advances per `step_shots()` call
   (higher = faster shot animation; 1 was the original value)
 - `SHOT_STACK_GAP = 2` — pixel separation between rapid stacked shots
 - `COMBINE_WINDOW = 0.004` — in-game shot combo window (~4ms, tight so single

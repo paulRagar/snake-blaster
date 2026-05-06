@@ -103,7 +103,7 @@ KIDS_SNAKE_COLORS  = 10   # 10 colored pixels with EMPTY between → 19 cells to
 COMBINE_WINDOW       = 0.004   # in-game shot combo — tight so single presses fire fast
 IDLE_COMBINE_WINDOW  = 0.150   # idle mode-select combo (loose, easier for humans)
 TRAVEL_SPEED         = 0.004   # seconds per shot pixel step (lower = faster)
-SHOT_PIXELS_PER_STEP = 3       # pixels each shot advances per step_shots call (higher = faster animation)
+SHOT_PIXELS_PER_STEP = 2       # pixels each shot advances per step_shots call (higher = faster animation)
 SHOT_STACK_GAP       = 2       # pixels of separation between stacked rapid shots
 WIN_PAUSE          = 2000
 TWINKLE_INTERVAL   = 80
